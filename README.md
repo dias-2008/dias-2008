@@ -1,6 +1,6 @@
 - 👋 Hi, I’m dias
-- 👀 I’m interested in programming, Islam and ILTS preparation
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in programming and cybersecurity
+- 🌱 I’m currently learning Python and cybersecurity
 - 📫 How to reach me instagram: dias_z.h
 
 <!---
