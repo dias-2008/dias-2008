@@ -5,14 +5,13 @@
 🔧 Skills
 Python (Automation, Web Scraping, Data Processing)
 
-Working with APIs & Parsing Data
+Working with APIs, Parsing Data, Cybersecurity tools
 
 Basic Object-Oriented Programming (OOP)
 
-📂 Projects
-🚀 Freelance Parser – A project to automate freelance job scraping
+📂 One of my proudest projects is WindowsAnomalyWatcher, which you can explore in my repository. I’ve also worked on other projects that you can find there.
 
-(…More projects coming soon…)
+More projects im my repo
 
 📫 How to reach me
 📷 Instagram: @dias_z.h
